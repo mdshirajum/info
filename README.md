@@ -1,11 +1,8 @@
-- Hi, I’m @mdshirajum. 
+- Hi, I’m @mdshirajum, a passionate Enterprise Architect with 12+ years of broad working experience on IIoT, Data and Analytics, Production Information Management, Operational Technology, Process Automation and Energy Systems.
 - I am currently working as Lead, IT Data and Analytics at Xcel Energy, USA 
 - I'm a passionate enterprise architect for IIoT, cloud, BI integration & IT/OT convergence solutions
 - I’m the founder of IIoT-Ops initiative (www.IIoTOps.com)
 - I can be reached at https://www.linkedin.com/in/mdshirajum/
-
-About
-Passionate Enterprise Architect with 12+ years of broad working experience on IIoT, Data and Analytics, Production Information Management, Operational Technology, Process Automation and Energy Systems.
 
 PROFESSIONAL HIGHLIGHT:
 - Over 12 years of working experience at top North American Oil & Gas and Utility companies (Xcel Energy, Phillips 66, L&T Infotech - USA; Emerson Automation, Cenovus, ATCO, NWR, Alberta Innovates - Canada)
